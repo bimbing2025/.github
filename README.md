@@ -1,6 +1,6 @@
 <h1>About Bimbing</h1>
 
-### Background
+## Background
 
 
 ## Developers
